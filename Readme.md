@@ -6,5 +6,6 @@
 - commitlint
 - prettier
 - husky
+- node 16.17.1
 
 ##
